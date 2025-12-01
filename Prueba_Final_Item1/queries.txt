@@ -1,0 +1,3 @@
+CPU => rate(container_cpu_usage_seconds_total{instance="localhost:8080"}[5m])
+Disco => container_fs_usage_bytes{instance="localhost:8080"}
+Memoria => container_memory_usage_bytes{instance="localhost:8080"}
