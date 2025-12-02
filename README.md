@@ -22,7 +22,7 @@ demostrando el monitoreo de infraestructura, aplicación, métricas personalizad
 ---
 
 ## 🚀 Item IV - Observabilidad de Costos
-Descrippción de Contenidos
-    Alarma de Costo
-    Condiciones 
-    Explicacion de FinOps
+    ## Descrippción de Contenidos
+        ## Alarma de Costo
+        ## Condiciones 
+        ## Explicacion de FinOps
