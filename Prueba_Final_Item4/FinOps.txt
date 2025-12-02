@@ -1,0 +1,3 @@
+FinOps
+Se enfoca en la responsabilidad financiera, la optimización del consumo de recursos en la nube y en permitir una toma de decisiones más ágil y basada en datos. 
+Esto permite tener presupuestos ajustados a las necesidades de la organización y en base a datos obtenidos desde operación, con el fin de optimizar los costos. 
