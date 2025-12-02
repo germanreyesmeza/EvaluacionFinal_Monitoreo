@@ -18,11 +18,15 @@ demostrando el monitoreo de infraestructura, aplicación, métricas personalizad
 ---
 
 ## 🚀 Item III - Monitoreo con AWS CloudWatch
-
+    ## Descrippción de Contenidos
+        ## Dashboard Construido con Metricas de EC2
+        ## Umbral de Uso de CPU de EC2
+        ## Alarma y Acccion al Superar Umbral
+        ## Documentación "dashboard.json"
 ---
 
 ## 🚀 Item IV - Observabilidad de Costos
     ## Descrippción de Contenidos
-        ## Alarma de Costo
+        ## Alarma de Costos
         ## Condiciones 
         ## Explicacion de FinOps
