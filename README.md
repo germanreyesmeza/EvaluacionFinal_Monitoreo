@@ -4,8 +4,6 @@
 **Fecha:** 09/12/2025  
 **Curso:** Monitoreo y Observabilidad  
 
----
-
 ## 📋 Descripción
 Implementar un entorno de observabilidad integral basado en Prometheus Cloud, Grafana Cloud y AWS CloudWatch,
 demostrando el monitoreo de infraestructura, aplicación, métricas personalizadas y costos, junto con la documentación del proceso.
@@ -24,3 +22,7 @@ demostrando el monitoreo de infraestructura, aplicación, métricas personalizad
 ---
 
 ## 🚀 Item IV - Observabilidad de Costos
+Descrippción de Contenidos
+    Alarma de Costo
+    Condiciones 
+    Explicacion de FinOps
